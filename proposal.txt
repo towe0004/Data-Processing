@@ -1,0 +1,4 @@
+The project tests which neighbourhood characteristics explain where entire-home Airbnb listings concentrate in Amsterdam. 
+It does this by joining Inside Airbnb listings to CBS statistics for around 500 neighbourhoods and modelling listing 
+density with regression and spatial statistics. The new libraries will be used for geospatial processing, 
+which are geopandas and shapely.
