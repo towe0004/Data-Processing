@@ -9,6 +9,6 @@ Libraries that I will be using: Scikit-learn to build models using weather model
 
 I will also learn about data cleaning, where I will handle datasets of different granularity, deal with anormalities and to validate range.
 
-Output will be to produce multiple graphs inside a jupyter notebook to see which weather condition (temperature, sunshine hours, humidity) affects tourist arrival numbers the most. There will be data-pipeline diagram, correlation heatmap, diagnostic scatter grid, actual-vs-predicted plots and a feature-importance chart. The output will show a dashboard to show what is the recommended action to take at specific periods of the year.
+Output will be to produce multiple graphs inside a jupyter notebook to see which weather condition (temperature, sunshine hours, humidity) affects tourist arrival numbers the most. There will be data-pipeline diagram, correlation heatmap, actual-vs-predicted plots and a feature-importance chart. The output will show a dashboard to show what is the recommended action to take at specific periods of the year.
 
 
