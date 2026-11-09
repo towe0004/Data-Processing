@@ -1,4 +1,1 @@
-The project tests which neighbourhood characteristics explain where entire-home Airbnb listings concentrate in Amsterdam. 
-It does this by joining Inside Airbnb listings to CBS statistics for around 500 neighbourhoods and modelling listing 
-density with regression and spatial statistics. The new libraries will be used for geospatial processing, 
-which are geopandas and shapely.
+This project analyses and predicts how temporal weather variations affect international tourist arrivals to Singapore, working on the hypothesis that weather conditions in both Singapore and tourists’ origin countries (such as monsoon seasons) significantly influence arrival volumes. It asks to what extent granular weather conditions in these locations drive fluctuations in arrivals, and how these insights can help the Singapore Tourism Board (STB) schedule events more effectively.
