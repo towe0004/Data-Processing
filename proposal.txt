@@ -1,1 +1,14 @@
 This project analyses and predicts how temporal weather variations affect international tourist arrivals to Singapore, working on the hypothesis that weather conditions in both Singapore and tourists’ origin countries (such as monsoon seasons) significantly influence arrival volumes. It asks to what extent granular weather conditions in these locations drive fluctuations in arrivals, and how these insights can help the Singapore Tourism Board (STB) schedule events more effectively.
+
+The datasets that I will be using:
+- Dataset on weather conditions (Singapore weather website)
+- Dataset on global weather conditions from Kaggle (to validate 1st dataset)
+- Singapore tourism numbers
+
+Libraries that I will be using: Scikit-learn to build models using weather models as input variables, testing them, and measuring which features matter. I will be comparing a few models side by side instead of picking one, which models has the best fit for this project. Some of them are linear regression, ridge regression and random forest. I have learnt linear regression as of now, but not ridge regression and random forest. I will also explore more on the evaluation metrics such as R^2 value and mean squared error (MSE) to check each model's results.
+
+I will also learn about data cleaning, where I will handle datasets of different granularity, deal with anormalities and to validate range.
+
+Output will be to produce multiple graphs inside a jupyter notebook to see which weather condition (temperature, sunshine hours, humidity) affects tourist arrival numbers the most. There will be data-pipeline diagram, correlation heatmap, diagnostic scatter grid, actual-vs-predicted plots and a feature-importance chart. The output will show a dashboard to show what is the recommended action to take at specific periods of the year.
+
+
