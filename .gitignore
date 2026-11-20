@@ -1,0 +1,4 @@
+data/.complete/
+data/state.db
+data/*.archive
+.ipynb_checkpoints/
