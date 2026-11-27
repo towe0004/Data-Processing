@@ -43,4 +43,3 @@ Project: How do weather conditions influence tourist arrivals in Singapore?
 - SingStat Table Builder M890081, weather (DS2): https://tablebuilder.singstat.gov.sg/table/TS/M890081
 - SingStat Table Builder M550001, tourist arrivals (DS3): https://tablebuilder.singstat.gov.sg/table/TS/M550001
 - GitHub file size limits: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
-- Claude Code (AI assistant) to debug the download and restructure the notebook
